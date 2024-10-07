@@ -7,7 +7,7 @@
 
 - 💻 All of my projects are available at [this link](https://github.com/dobromirpetrov00?tab=repositories)
 
-- ✉️ How to reach me **dobpet00@gmail.com**
+- ✉️ For contact, send me email at **dobpet00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
