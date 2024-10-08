@@ -11,7 +11,7 @@
 
 - ✉️ For contact, send me email at **dobpet00@gmail.com**
 
-- <span display="inline-block" vertical-align="middle"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="21px" height="21px" /> Find me [here](https://www.linkedin.com/in/dobromirpetrov1337) </span>
+- <img class="linkedinimg" src="https://skillicons.dev/icons?i=linkedin&theme=light" width="21px" height="21px" /> Find me [here](https://www.linkedin.com/in/dobromirpetrov1337)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dobromirpetrov00&show_icons=true&locale=en&layout=compact" alt="dobromirpetrov00" /></p>
 
