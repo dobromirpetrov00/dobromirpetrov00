@@ -11,6 +11,8 @@
 
 - ![image](https://github.com/user-attachments/assets/fafdecd6-d6b2-42e1-af62-325f08d42748) &nbsp;Find me on [LinkedIn](https://www.linkedin.com/in/dobromirpetrov1337)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dobromirpetrov00&show_icons=true&locale=en&layout=compact" alt="dobromirpetrov00" /></p>
+
 <h3 align="left">Languages and Tools:</h3>
 ## Frontend
 <p align="left">
@@ -73,6 +75,3 @@
     <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> 
   </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dobromirpetrov00&show_icons=true&locale=en&layout=compact" alt="dobromirpetrov00" /></p>
-
