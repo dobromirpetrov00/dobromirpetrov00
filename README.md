@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Dobby</h1>
 <h3 align="center">A passionate developer, network engineer and cybersecurity specialist</h3>
 
-- ⚒️ I’m currently working on **lots of stuff**
+- ⚒️  I’m currently working on **lots of stuff**
 
-- ✏️ I’m currently learning **lots of stuff**
+- ✏️  I’m currently learning **lots of stuff**
 
-- 💻 All of my projects are available [here](https://github.com/dobromirpetrov00?tab=repositories)
+- 💻  All of my projects are available [here](https://github.com/dobromirpetrov00?tab=repositories)
 
-- ✉️ For contact, send me email at **dobpet00@gmail.com**
+- ✉️  For contact, send me email at **dobpet00@gmail.com**
 
 - ![image](https://github.com/user-attachments/assets/34b9bd8d-9df6-43ca-a150-eba9ba615387) &nbsp;Find me on [LinkedIn](https://www.linkedin.com/in/dobromirpetrov1337)
 
