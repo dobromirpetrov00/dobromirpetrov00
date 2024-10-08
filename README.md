@@ -40,7 +40,7 @@
 <p align="left">
   <img title="mysql" src="https://skillicons.dev/icons?i=mysql&theme=light" />
   <img title="sqlite" src="https://skillicons.dev/icons?i=sqlite&theme=light" />
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" background-color="white"> <img title="oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="48" height="48"/> </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img title="oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="48" height="48"/> </a>
 </p>
 
 ### Tools & Platforms
@@ -48,7 +48,7 @@
   <img title="git" src="https://skillicons.dev/icons?i=git&theme=light" />
   <img title="linux" src="https://skillicons.dev/icons?i=linux&theme=light" />
   <img title="postman" src="https://skillicons.dev/icons?i=postman&theme=light" />
-  
+  <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img title="puppeteer" src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="48" height="48"/> </a>
   <img title="selenium" src="https://skillicons.dev/icons?i=selenium&theme=light" />
   <img title="circleci" src="https://skillicons.dev/icons?i=circleci&theme=light" />
 </p>
