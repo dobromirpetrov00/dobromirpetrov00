@@ -17,6 +17,10 @@
   </g>
 
   <style>
+    .linkedinimg {
+      display: inline-block;
+      vertical-align: middle;
+    }
     .waves {
       position: absolute;
       bottom: 0;
