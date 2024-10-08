@@ -48,7 +48,6 @@
   <img title="git" src="https://skillicons.dev/icons?i=git&theme=light" />
   <img title="linux" src="https://skillicons.dev/icons?i=linux&theme=light" />
   <img title="postman" src="https://skillicons.dev/icons?i=postman&theme=light" />
-  <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img title="puppeteer" src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="48" height="48"/> </a>
   <img title="selenium" src="https://skillicons.dev/icons?i=selenium&theme=light" />
   <img title="circleci" src="https://skillicons.dev/icons?i=circleci&theme=light" />
 </p>
