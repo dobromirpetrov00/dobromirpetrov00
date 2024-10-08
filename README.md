@@ -9,8 +9,8 @@
 
 - ✉️ For contact, send me email at **dobpet00@gmail.com**
 
-<div style="display: flex; align-items: center;">
-  <h3 style="margin-right: 10px;">Find me on LinkedIn:</h3>
+<div display="flex" align-items="center">
+  <h3 margin-right="10px">Find me on LinkedIn:</h3>
   <a href="https://linkedin.com/in/dobromirpetrov1337" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dobromirpetrov1337" height="30" width="40" />
   </a>
