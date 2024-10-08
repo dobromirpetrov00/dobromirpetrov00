@@ -5,7 +5,7 @@
 
 - ✏️ I’m currently learning **lots of stuff**
 
-- 💻 All of my projects are available at [this link](https://github.com/dobromirpetrov00?tab=repositories)
+- 💻 All of my projects are available [here](https://github.com/dobromirpetrov00?tab=repositories)
 
 - ✉️ For contact, send me email at **dobpet00@gmail.com**
 
