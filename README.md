@@ -13,7 +13,7 @@
 
 ### Find me on [<img title="linkedin" src="https://skillicons.dev/icons?i=linkedin" width="21" height="21" />](https://www.linkedin.com/in/dobromirpetrov1337)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dobromirpetrov00&show_icons=true&locale=en&layout=compact" alt="dobromirpetrov00" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dobromirpetrov00&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&theme=midnight-purple" alt="dobromirpetrov00" /></p>
 
 <h1 align="left">Languages and Tools:</h1>
 
