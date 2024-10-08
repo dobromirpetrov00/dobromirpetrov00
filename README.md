@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dobromirpetrov00/dobromirpetrov00/master/waves.svg" width="100%" height="150">
+<img src="https://raw.githubusercontent.com/dobromirpetrov00/dobromirpetrov00/master/waves.svg" width="100%" height="150" />
 
 <h1 align="center">Hi, I'm Dobby</h1>
 <h3 align="center">A passionate software developer, network engineer and cybersecurity specialist</h3>
@@ -11,7 +11,7 @@
 
 - ✉️ For contact, send me email at **dobpet00@gmail.com**
 
-- <img class="linkedinimg" src="https://skillicons.dev/icons?i=linkedin&theme=light" width="21px" height="21px" /> Find me [here](https://www.linkedin.com/in/dobromirpetrov1337)
+- <img src="https://raw.githubusercontent.com/dobromirpetrov00/dobromirpetrov00/master/linkedinicon.svg" /> Find me [here](https://www.linkedin.com/in/dobromirpetrov1337)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dobromirpetrov00&show_icons=true&locale=en&layout=compact" alt="dobromirpetrov00" /></p>
 
