@@ -17,7 +17,7 @@
 
 ### Languages
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=bash,html,css,javascript,php,python,go,typescript" />
+  <img src="https://skillicons.dev/icons?i=bash,html,css,javascript,php,python,go,typescript&theme=light" />
 </p>
 
 ### Frameworks & Libraries
