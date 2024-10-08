@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dobromirpetrov00/dobromirpetrov00/master/logo.svg" width="300" height="100">
-</p>	
 <img src="https://raw.githubusercontent.com/dobromirpetrov00/dobromirpetrov00/master/waves.svg" width="100%" height="150">
 
 <h1 align="center">Hi, I'm Dobby</h1>
