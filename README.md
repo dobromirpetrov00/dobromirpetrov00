@@ -42,7 +42,7 @@
 <p align="left">
   <img title="mysql" src="https://skillicons.dev/icons?i=mysql&theme=light" />
   <img title="sqlite" src="https://skillicons.dev/icons?i=sqlite&theme=light" />
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" target="_blank" rel="noreferrer"> <img title="oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="48" height="48"/> </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" target="_blank" rel="noreferrer"> <img title="oracle" src="https://raw.githubusercontent.com/dobromirpetrov00/dobromirpetrov00/master/oracle-original.svg" alt="oracle" width="48" height="48"/> </a>
 </p>
 
 ### Tools & Platforms
