@@ -13,7 +13,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dobromirpetrov00&show_icons=true&locale=en&layout=compact" alt="dobromirpetrov00" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h3>
+
 ## Frontend
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
