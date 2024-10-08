@@ -1,4 +1,4 @@
-<svg width="19" height="19">
+<svg width="19" height="19" xmlns="http://www.w3.org/2000/svg">
 	<style>
 		.linkedinimg {
 			display: inline-block;
@@ -6,11 +6,11 @@
 		}
 	</style>
 
+	<title>LinkedIn</title>
 	<image
 		class="linkedinimg"
-		title="linkedin"
 		width="19" 
 		height="19" 
-		xlink:href="https://skillicons.dev/icons?i=linkedin&theme=light"
+		href="https://skillicons.dev/icons?i=linkedin&theme=light"
 	/>
 </svg>
