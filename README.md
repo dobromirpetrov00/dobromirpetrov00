@@ -40,6 +40,7 @@
 <p align="left">
   <img title="mysql" src="https://skillicons.dev/icons?i=mysql&theme=light" />
   <img title="sqlite" src="https://skillicons.dev/icons?i=sqlite&theme=light" />
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img title="mssql" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
   
   <img src="https://skillicons.dev/icons?i=mssql,oracle&theme=light" />
 </p>
@@ -49,7 +50,7 @@
   <img title="git" src="https://skillicons.dev/icons?i=git&theme=light" />
   <img title="linux" src="https://skillicons.dev/icons?i=linux&theme=light" />
   <img title="postman" src="https://skillicons.dev/icons?i=postman&theme=light" />
-  <img title="puppeteer" src="https://skillicons.dev/icons?i=puppeteer&theme=light" />
+  
   <img title="selenium" src="https://skillicons.dev/icons?i=selenium&theme=light" />
   <img title="circleci" src="https://skillicons.dev/icons?i=circleci&theme=light" />
 </p>
