@@ -40,9 +40,7 @@
 <p align="left">
   <img title="mysql" src="https://skillicons.dev/icons?i=mysql&theme=light" />
   <img title="sqlite" src="https://skillicons.dev/icons?i=sqlite&theme=light" />
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img title="mssql" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-  
-  <img src="https://skillicons.dev/icons?i=mssql,oracle&theme=light" />
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img title="oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 </p>
 
 ### Tools & Platforms
