@@ -9,7 +9,7 @@
 
 - ✉️ For contact, send me email at **dobpet00@gmail.com**
 
-- Find me on [<img src="https://skillicons.dev/icons?i=linkedin&theme=light" />](https://www.linkedin.com/in/dobromirpetrov1337)
+- <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="21px" height="21px" /> Find me [here](https://www.linkedin.com/in/dobromirpetrov1337)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dobromirpetrov00&show_icons=true&locale=en&layout=compact" alt="dobromirpetrov00" /></p>
 
