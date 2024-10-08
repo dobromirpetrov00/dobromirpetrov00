@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/dobromirpetrov00/dobromirpetrov00/master/waves.svg" width="100%" height="150" />
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/dobromirpetrov00/dobromirpetrov00/master/name" />
+  <img src="https://raw.githubusercontent.com/dobromirpetrov00/dobromirpetrov00/master/name.svg" />
 </p>
 <h1 align="center">Hi, I'm Dobby</h1>
 <h3 align="center">A passionate software developer, network engineer and cybersecurity specialist</h3>
