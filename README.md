@@ -17,7 +17,14 @@
 
 ### Languages
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=bash,html,css,javascript,typescript,php,python,go&theme=light" />
+  <img title="bash" src="https://skillicons.dev/icons?i=bash&theme=light" />
+  <img title="html" src="https://skillicons.dev/icons?i=html&theme=light" />
+  <img title="css" src="https://skillicons.dev/icons?i=css&theme=light" />
+  <img title="javascript" src="https://skillicons.dev/icons?i=javascript&theme=light" />
+  <img title="typescript" src="https://skillicons.dev/icons?i=typescript&theme=light" />
+  <img title="php" src="https://skillicons.dev/icons?i=php&theme=light" />
+  <img title="python" src="https://skillicons.dev/icons?i=python&theme=light" />
+  <img title="go" src="https://skillicons.dev/icons?i=go&theme=light" />
 </p>
 
 ### Frameworks & Libraries
