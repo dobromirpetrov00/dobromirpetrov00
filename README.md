@@ -7,7 +7,7 @@
 
 - ✏️ I’m currently learning **lots of stuff**
 
-- 💻 All of my projects are available [here](https://github.com/dobromirpetrov00?tab=repositories)
+- 💻 Find my portfolio [here](https://portfolio-1sk.pages.dev/)
 
 - ✉️ For contact, send me email at **dobpet00@gmail.com**
 
