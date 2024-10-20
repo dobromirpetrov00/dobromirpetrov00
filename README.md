@@ -66,5 +66,5 @@
 ### Other
 <p align="left"> 
   
-  **Ajax** | **APIs** | **Puppeteer** | **Playwright** | **Salesforce** | **ChakraUI** | **PWA kit** | **inRiver** | **Voyado** | **Pixlee**
+  **Ajax** | **APIs** | **Puppeteer** | **Playwright** | **ChakraUI** | **PWA kit** | **inRiver** | **Voyado** | **Pixlee**
 </p>
