@@ -32,6 +32,7 @@
 ### Frameworks & Libraries
 <p align="left">
   <img title="react" src="https://skillicons.dev/icons?i=react&theme=light" />
+  <img title="angular" src="https://skillicons.dev/icons?i=angular&theme=light" />
   <img title="expressjs" src="https://skillicons.dev/icons?i=expressjs&theme=light" />
   <img title="nodejs" src="https://skillicons.dev/icons?i=nodejs&theme=light" />
   <img title="django" src="https://skillicons.dev/icons?i=django&theme=light" />
@@ -49,6 +50,7 @@
 <p align="left"> 
   <img title="git" src="https://skillicons.dev/icons?i=git&theme=light" />
   <img title="linux" src="https://skillicons.dev/icons?i=linux&theme=light" />
+  <a href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/salesforce/salesforce-original.svg" target="_blank" rel="noreferrer"> <img title="salesforce" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" alt="salesforce" width="48" height="48" /> </a>
   <img title="postman" src="https://skillicons.dev/icons?i=postman&theme=light" />
   <img title="selenium" src="https://skillicons.dev/icons?i=selenium&theme=light" />
   <img title="circleci" src="https://skillicons.dev/icons?i=circleci&theme=light" />
