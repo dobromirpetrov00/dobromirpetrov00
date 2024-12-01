@@ -34,6 +34,7 @@
   <img title="react" src="https://skillicons.dev/icons?i=react&theme=light" />
   <img title="angular" src="https://skillicons.dev/icons?i=angular&theme=light" />
   <img title="expressjs" src="https://skillicons.dev/icons?i=expressjs&theme=light" />
+  <img title="nextjs" src="https://skillicons.dev/icons?i=nextjs&theme=light" />
   <img title="nodejs" src="https://skillicons.dev/icons?i=nodejs&theme=light" />
   <img title="django" src="https://skillicons.dev/icons?i=django&theme=light" />
   <img title="pytorch" src="https://skillicons.dev/icons?i=pytorch&theme=light" />
