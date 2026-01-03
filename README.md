@@ -52,7 +52,7 @@
   <a href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/salesforce/salesforce-original.svg" target="_blank" rel="noreferrer"> <img title="salesforce" src="https://raw.githubusercontent.com/dobromirpetrov00/dobromirpetrov00/master/salesforce-original.svg" alt="salesforce" width="48" height="48" /> </a>
   <img title="postman" src="https://skillicons.dev/icons?i=postman&theme=light" />
   <img title="selenium" src="https://skillicons.dev/icons?i=selenium&theme=light" />
-  <img title="circleci" src="https://skillicons.dev/icons?i=circleci&theme=light" />
+  <img title="docker" src="https://skillicons.dev/icons?i=docker&theme=light" />
 </p>
 
 ### Styling
