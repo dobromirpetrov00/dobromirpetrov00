@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/dobromirpetrov00/dobromirpetrov00/master/waves.svg" width="100%" height="150" />
 
 <h1 align="center">Hi, I'm Dobby</h1>
-<h3 align="center">A passionate software developer, network engineer and cybersecurity specialist</h3>
 
 - ⚒️ I’m currently working on **lots of stuff**
 
@@ -9,11 +8,9 @@
 
 - 💻 Find my portfolio [here](https://portfolio-1sk.pages.dev/)
 
-- ✉️ For contact, send me email at **dobpet00@gmail.com**
+- ✉️ For contact, send me email at **contact@dobby.software**
 
 ### Find me on [<img title="linkedin" src="https://skillicons.dev/icons?i=linkedin" width="21" height="21" />](https://www.linkedin.com/in/dobromirpetrov1337)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dobromirpetrov00&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&theme=jolly" alt="dobromirpetrov00" /></p>
 
 <h1 align="left">Languages and Tools:</h1>
 
