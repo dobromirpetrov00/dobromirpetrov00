@@ -30,6 +30,7 @@
 <p align="left">
   <img title="discordjs" src="https://skillicons.dev/icons?i=discord&theme=light" />
   <img title="react" src="https://skillicons.dev/icons?i=react&theme=light" />
+  <img title="vue" src="https://skillicons.dev/icons?i=vue&theme=light" />
   <img title="angular" src="https://skillicons.dev/icons?i=angular&theme=light" />
   <img title="expressjs" src="https://skillicons.dev/icons?i=expressjs&theme=light" />
   <img title="nextjs" src="https://skillicons.dev/icons?i=nextjs&theme=light" />
